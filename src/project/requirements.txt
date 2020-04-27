@@ -1,0 +1,12 @@
+flask
+gunicorn
+itsdangerous
+Jinja2
+locationiq
+geocoder
+folium
+newsapi
+pandas
+json
+os
+pandas
